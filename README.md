@@ -242,7 +242,7 @@
 * Squarespace https://engineering.squarespace.com/
 * Stack Overflow https://stackoverflow.blog/engineering/
 * Stackshare https://stackshare.io/feed
-* Steam https://getstream.io/blog/topic/engineering/
+* Stream https://getstream.io/blog/topic/engineering/
 * Stitch Fix http://multithreaded.stitchfix.com/blog/
 * Strava https://medium.com/strava-engineering/
 * Stripe https://stripe.com/blog
